@@ -1,0 +1,12 @@
+<suite name="DataDrivenFramework">
+  <test name="loginDataDriven">
+    <classes>
+      <class name="driverFactory.TestScript"/>
+    </classes>
+  </test> <!-- Test -->
+   <test name="SupplierDataDriven">
+    <classes>
+      <class name="driverFactory.DriverScript"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- DataDrivenFramework -->
